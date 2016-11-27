@@ -1,0 +1,22 @@
+{
+  "name": "archivepodcastpipeline",
+  "version": "1.0.0",
+  "description": "Creates an rss podcast feed from MP3 files in an archive subject tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRIW/ArchivePodcastPipeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRIW/ArchivePodcastPipeline/issues"
+  },
+  "homepage": "https://github.com/CRIW/ArchivePodcastPipeline#readme",
+  "dependencies": {
+    "jsdom": "^9.8.3"
+  }
+}
